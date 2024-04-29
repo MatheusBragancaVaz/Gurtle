@@ -1,5 +1,5 @@
 ### Olá, Gurtle aqui. 
 
-👨‍💻 Desenvolvedor front-end apaixonado por criar experiências web incríveis.
-🚀 Tecnologias: Vue.js, Angular, React.js, Tailwind CSS.
-🌱 Atualmente aprendendo Django de Python para expandir meu conjunto de habilidades.
+👨‍💻 Desenvolvedor front-end e Android Kotlin apaixonado por criar experiências incríveis para os usuários.
+
+🌱 Atualmente buscando expandir meu conjunto de habilidades e explorar novas oportunidades no mundo do desenvolvimento.
